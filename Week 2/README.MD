@@ -135,9 +135,9 @@
 
 14. **Which of these statements is True about recursion?**
 
-    ✅. Recursion always terminates
+    A. Recursion always terminates
 
-    B. Recursion can replace loops
+    ✅. Recursion can replace loops
 
     C. Recursion cannot be used in Python
 
